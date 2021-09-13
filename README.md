@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github.com/bobd988/car-simulation-webots/blob/main/media/car1.png" width="400">
 
-The project was created with IntelliJ IDEA 2020.2 and Webots 2021a simulation.  
+The project was created with Webots 2021a simulation.
 
 ### Build
 
